@@ -29,5 +29,13 @@
     "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
+  },
+  "gitmoji": {
+    "autoAdd": false,
+    "emojiFormat": "emoji",
+    "scopePrompt": false,
+    "messagePrompt": true,
+    "capitalizeTitle": true,
+    "gitmojisUrl": "https://gitmoji.dev/api/gitmojis"
   }
 }
