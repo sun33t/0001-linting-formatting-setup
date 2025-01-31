@@ -1,4 +1,12 @@
-# linting-formatting-setup
+<div align="center">
+  <a href="https://www.suneet.codes/articles/linting-formatting-setup">
+    <picture>
+      <img alt="Next.js logo" src="https://res.cloudinary.com/suneet-codes/image/upload/v1738314003/suneet-codes/articles/linting-formatting-node_dsdot4.jpg" height="300">
+    </picture>
+  </a>
+  <h1 style="padding-top:50px;padding-bottom:50px;" >Node Projects: Linting + Formatting + Conventional Commits</h1>
+
+</div>
 
 This repo demonstrates a toolchain for using git hooks to automate the linting and formatting of files and for the standardization of commit messages.
 
