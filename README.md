@@ -39,5 +39,3 @@ Make a change in any file and commit the change. The toolchain will automaticall
 ## Authors
 
 - [@sun33t](https://github.com/sun33t)
-
-minor change
