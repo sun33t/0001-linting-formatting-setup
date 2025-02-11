@@ -1,0 +1,20 @@
+{
+  "name": "0001-linting-formatting-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sun33t/0001-linting-formatting-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sun33t/0001-linting-formatting-setup/issues"
+  },
+  "homepage": "https://github.com/sun33t/0001-linting-formatting-setup#readme",
+  "description": ""
+}
